@@ -4,6 +4,8 @@
 
 Part of [agent-anatomy](https://github.com/agent-anatomy) — boilerplates for every AI coding agent.
 
+📊 **[View diagram →](https://agent-anatomy.github.io/graphics/codex.html)**
+
 ---
 
 ## Usage
