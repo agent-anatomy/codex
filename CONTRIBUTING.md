@@ -7,8 +7,9 @@ Found something wrong, outdated, or missing? Open a PR directly — no issue nee
 ## PR checklist
 
 - [ ] Changes tested against the current version of the agent
+- [ ] Examples verified against the current `openai/codex` docs or CLI help
 - [ ] README updated if files/structure changed
-- [ ] No placeholder text left in template files
+- [ ] No fake commands or raw placeholder markers left in template files
 
 ## What makes a good contribution
 
